@@ -27,18 +27,6 @@ body {
   z-index: auto;
 }
 
-@keyframes curveHover {
-  from { border-image: linear-gradient(45deg, #5ad, #fff) 32; }
-  50% { border-image: linear-gradient(45deg, #5ad, #fff, #5ad) 32; }
-  to { border-image: linear-gradient(45deg, #fff, #5ad) 32; }
-}
-
-.curve:hover {
-  animation-name: curveHover;
-  animation-duration: 0.5s;
-  animation-iteration-count: 1;
-}
-
 body div {
   margin: 1rem;
 }
