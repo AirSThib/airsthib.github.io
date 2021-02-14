@@ -34,7 +34,9 @@ body {
 }
 
 .curve:hover {
-  
+  animation-name: curveHover;
+  animation-duration: 0.5s;
+  animation-iteration-count: 1;
 }
 
 body div {
