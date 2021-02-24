@@ -86,7 +86,7 @@ var xGiro = setInterval(function() {
 
 //Vuelta Countdown
 
-var countDownDateVuelta = new Date("Aug 14, 2021 12:00:00").getTime();
+var countDownDateVuelta = new Date("Aug 14, 2021 13:10:00").getTime();
 
 var xVuelta = setInterval(function() {
 
