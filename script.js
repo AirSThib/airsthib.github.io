@@ -24,7 +24,7 @@ function scrollFunction() {
 
 function openMenu() {
     document.getElementById("summaryDiv").style.right = "0";
-    document.getElementById("summaryDiv").style.opacity = "1";
+    document.getElementById("summaryDiv").style.opacity = "0.5";
     document.getElementById("btnMenu").style.transform = "rotate(0deg)";
     document.getElementById("btnMenu").setAttribute("onclick", "closeMenu()");
 }
