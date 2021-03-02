@@ -63,6 +63,10 @@ h2 {
   top: 0;
   transition-duration: 1s;
   transition-timing-function: ease;
+  opacity: 0.5;
+}
+
+.summaryDiv:hover {
   opacity: 1;
 }
 
