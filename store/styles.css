@@ -5,10 +5,13 @@
 
 body {
   overflow-x: hidden;
-  background: #2573b8;
   font-family: "SourceSansPro", sans-serif;
-  font-weight: 300;
+}
+
+.top {
   color: #fff;
+  font-weight: 300;
+  background: #2573b8;
 }
 
 .curve {
