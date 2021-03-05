@@ -6,6 +6,7 @@
 body {
   overflow-x: hidden;
   font-family: "SourceSansPro", sans-serif;
+  padding: 0;
 }
 
 .top {
@@ -33,5 +34,5 @@ body {
 }
 
 body div {
-  margin: 1rem;
+  padding: 1rem; 
 }
