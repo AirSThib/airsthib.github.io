@@ -13,8 +13,8 @@ body {
 .top {
   background: #2573b8;
   height: 100vh;
-  position: relative;
-  top: -100vh;
+  position: absolute;
+  top: 0%;
   z-index: 2;
 }
 
