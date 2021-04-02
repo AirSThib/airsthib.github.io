@@ -240,11 +240,17 @@ a:hover {
   flex: 1 1 16rem;
   display: flex;
   flex-direction: column;
+  transition-duration: 0.5s;
 }
 
 .tdf {  
   border: 1px solid #fc3;
   color: #fc3;
+}
+
+.tdf:hover {
+  background: #fc3;
+  color: #fff:
 }
 
 .giro {
@@ -253,10 +259,19 @@ a:hover {
   
 }
 
+.tdf:hover {
+  background: #e8c;
+  color: #fff:
+}
+
 .vuelta {
   border: 1px solid #cc2626;
   color: #cc2626;
-  
+}
+
+.tdf:hover {
+  background: #cc2626;
+  color: #fff:
 }
 
 .countdown {
