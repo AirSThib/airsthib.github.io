@@ -131,7 +131,7 @@ a:hover {
 
 .btn {
   padding: 0.25rem 0.5rem 0.25rem 0.5rem;
-  margin: 0.5rem 0 0.5rem 0;
+  margin: 0.5rem;
   border-radius: 4px;
   transition-duration: 0.25s;
   font-weight: 300;
