@@ -266,17 +266,17 @@ a:hover {
   letter-spacing: 2px;
 }
 
-#tdf:hover {
+.tdf:hover {
   background: #fc3;
   color: #fff:
 }
 
-#giro:hover {
+.giro:hover {
   background: #e8c;
   color: #fff:
 }
 
-#vuelta:hover {
+.vuelta:hover {
   background: #cc2626;
   color: #fff:
 }
