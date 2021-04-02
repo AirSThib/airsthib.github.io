@@ -268,17 +268,17 @@ a:hover {
 
 .tdf:hover {
   background: #fc3;
-  color: #fff:
+  color: #fff !important:
 }
 
 .giro:hover {
   background: #e8c;
-  color: #fff:
+  color: #fff !important:
 }
 
 .vuelta:hover {
   background: #cc2626;
-  color: #fff:
+  color: #fff !important:
 }
 
 .cycling-countdowns {
