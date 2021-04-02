@@ -248,20 +248,10 @@ a:hover {
   color: #fc3;
 }
 
-.tdf:hover {
-  background: #fc3;
-  color: #fff:
-}
-
 .giro {
   border: 1px solid #e8c;
   color: #e8c;
   
-}
-
-.tdf:hover {
-  background: #e8c;
-  color: #fff:
 }
 
 .vuelta {
@@ -269,16 +259,26 @@ a:hover {
   color: #cc2626;
 }
 
-.tdf:hover {
-  background: #cc2626;
-  color: #fff:
-}
-
 .countdown {
   font-size: 1.44rem;
   font-weight: bold;
   margin-top: 0;
   letter-spacing: 2px;
+}
+
+#countdown-tdf:hover {
+  background: #fc3;
+  color: #fff:
+}
+
+#countdown-giro:hover {
+  background: #e8c;
+  color: #fff:
+}
+
+#countdown-vuelta:hover {
+  background: #cc2626;
+  color: #fff:
 }
 
 .cycling-countdowns {
