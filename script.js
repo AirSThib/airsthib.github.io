@@ -27,8 +27,6 @@ function openMenu() {
     document.getElementById("summaryDiv").style.opacity = "0.5";
     document.getElementById("btnMenu").style.transform = "rotate(0deg)";
     document.getElementById("btnMenu").setAttribute("onclick", "closeMenu()");
-    document.getElementById("summaryDiv").setAttribute("onmouseover", "document.getElementById('summaryDiv').style.opacity = '1'");
-    document.getElementById("summaryDiv").setAttribute("onmouseout", "document.getElementById('summaryDiv').style.opacity = '0.5'");
 }
 
 function closeMenu() {

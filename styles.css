@@ -69,7 +69,7 @@ h2 {
 }
 
 .summaryDiv:hover {
-  opacity: 1;
+  opacity: 1 !important;
 }
 
 .summaryDiv h2 {
